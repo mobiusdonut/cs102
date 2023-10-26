@@ -1,5 +1,5 @@
 //Program: movie_theater.cpp
-//Author: Kripa Kini
+//Author: Ravi Kini
 //Online class: cs102
 //Semester: Spring 2016
 //Description: calculates a theater's gross and net box office profit for a night

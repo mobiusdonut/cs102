@@ -1,5 +1,5 @@
 //Lab7-3.cpp - calculates the avg # of text messages sent per day
-//Created by Kripa Kini on 3/25/19
+//Created by Ravi Kini on 3/25/19
 
 #include <iostream>
 #include <iomanip>

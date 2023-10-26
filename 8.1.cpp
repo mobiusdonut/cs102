@@ -1,5 +1,5 @@
 //Lab8-1.cpp
-//Created/revised by Kripa Kini on 4/10/19
+//Created/revised by Ravi Kini on 4/10/19
 
 #include <iostream>
 using namespace std;

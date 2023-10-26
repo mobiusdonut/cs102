@@ -1,5 +1,5 @@
 //Lab7-4.cpp - calculates the avg electric bill over some months
-//Created by Kripa Kini on 3/25/19
+//Created by Ravi Kini on 3/25/19
 
 #include <iostream>
 #include <iomanip>

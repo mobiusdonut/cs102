@@ -1,5 +1,5 @@
 //Lab5-2.cpp - displays the total amount due
-//Created/revised by Kripa Kini on 3/3/19
+//Created/revised by Ravi Kini on 3/3/19
 
 #include <iostream>
 #include <iomanip>
